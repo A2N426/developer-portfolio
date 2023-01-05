@@ -17,6 +17,17 @@
     border: 0;
     background: #FD6E0A;
 }
+.btn-secondary{
+    height: 64px;
+    padding: 18px 35px;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid #FD6E0A;
+    margin-left: 20px;
+    color: #FD6E0A;
+    background: none;
+}
 
 .header {
     background: #FFF8F3;
