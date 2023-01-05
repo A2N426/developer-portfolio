@@ -50,6 +50,7 @@ nav {
 .nav-title {
     font-weight: 800;
     font-size: 45px;
+    
 }
 
 nav ul {
@@ -79,6 +80,7 @@ nav li {
     color: #181818;
     font-weight: 700;
     font-size: 35px;
+    margin-bottom: 10px;
 }
 
 .banner-description {
